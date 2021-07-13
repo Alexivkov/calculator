@@ -1,0 +1,14 @@
+13
+40C:\Users\1\calculator\calculator--v2.png132674727668907495 0
+49C:\Users\1\calculator\dist\index.f556d9ac.css.map132675203437524915 0
+44C:\Users\1\calculator\dist\index.23420cfa.js132675203437464911 0
+29C:\Users\1\calculator\main.js132675184826000396 0
+26C:\Users\1\calculator\dist132675203437544916 1
+54C:\Users\1\calculator\dist\calculator--v2.5c4986d5.png132675203437044887 0
+32C:\Users\1\calculator\index.html132674727668907495 0
+35C:\Users\1\calculator\style.css.map132674727668927496 0
+31C:\Users\1\calculator\style.css132674727668917495 0
+32C:\Users\1\calculator\style.scss132674727668927496 0
+48C:\Users\1\calculator\dist\index.23420cfa.js.map132675203437534915 0
+45C:\Users\1\calculator\dist\index.f556d9ac.css132675203437464911 0
+37C:\Users\1\calculator\dist\index.html132675203437454911 0
